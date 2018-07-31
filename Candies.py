@@ -65,7 +65,9 @@ def main():
 
 
 
-#main()
-a = [-2, -2, 3]
-print candies_positive(a, len(a), 3, 1)
+main()
+
+# this program can't process negtive inputs, like the following case.
+#a = [-2, -2, 3]
+#print candies_positive(a, len(a), 3, 1)
 
